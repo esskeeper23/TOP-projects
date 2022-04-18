@@ -192,6 +192,52 @@ button:hover{
 
 }
 
+.signUp{
+
+    height: 300px;
+    display: flex;
+    align-items: center;
+
+}
+
+.signUpText{
+
+    display: flex;
+    flex-direction: column;
+    font-size:18px ;
+    color: #f9faf8;
+
+}
+
+.buttonTitle{
+
+    font-weight: bold;
+    font-size: 36px;
+
+}
+
+.blueContainer{
+
+    height: 150px;
+    width: 80%;
+    margin: auto;
+    background-color: #3882f6;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.blueButton{ 
+
+    color: #f9faf8;
+    border:1px solid #f9faf8 ;
+
+}
+
+
+
 
 footer{
 
@@ -201,5 +247,8 @@ footer{
     height: 70px;
     justify-content: center;
     align-items: center;
+    color: white;
+    font-size: 18px;
 
 }
+
