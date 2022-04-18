@@ -153,3 +153,53 @@ button:hover{
     border-radius: 50%;
 
 }
+
+
+.aboutUs{
+
+    height: 400px;
+    background-color: #e5e7eb;
+    display: flex;
+
+}
+
+.quoteContainer{
+
+    width: 80%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.lorem{
+
+    justify-content: flex-end;
+    display: flex;
+    width: 80%;
+    margin: auto;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.quote{
+
+    font-size: 36px;
+    font-style: italic;
+    width: 900px;
+
+}
+
+
+footer{
+
+    background-color: #1f2937;
+    display: flex;
+    margin: auto;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+
+}
